@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PizzeriaDonaLaura</string>
+    <string name="nombreUsuario">Nombre Usuario</string>
+    <string name="passUsuario">Contraseña</string>
+    <string name="euro">€</string>
+    <string name="menuppl">MENU PRINCIPAL</string>
+    <string name="atras">ATRÁS</string>
+    <string name="confirmapedido">CONFIRMAR PEDIDO</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorNegro">#000000</color>
+    <color name="colorBlanco">#FFFFFF</color>
+    <color name="colorBurdeos">#890000</color>
+    <color name="colorBeige">#FFFD96</color>
+    <color name="colorVerde">#4C9526</color>
+    <color name="colorVerdeClaroGisaceo">#BCDAAD</color>
+    <color name="verdeBck">#DDF0D3</color>
+    <color name="grisBck">#AFAFAF</color>
+    <color name="beigeBck">#F8F3D1</color>
+</resources>
